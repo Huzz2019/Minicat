@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Demo01/Demo01.iml" filepath="$PROJECT_DIR$/../Demo01/Demo01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DemoTest01/DemoTest01.iml" filepath="$PROJECT_DIR$/../DemoTest01/DemoTest01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DemoTest02/DemoTest02.iml" filepath="$PROJECT_DIR$/../DemoTest02/DemoTest02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Minicat.iml" filepath="$PROJECT_DIR$/Minicat.iml" />
+    </modules>
+  </component>
+</project>
